@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('assets/icomoon.eot?8kz872');
+  src:  url('assets/icomoon.woff?8kz872') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-like:before {
+  content: "\e90f";
+}
+.icon-filter:before {
+  content: "\e900";
+}
+.icon-plus:before {
+  content: "\e901";
+}
+.icon-minus:before {
+  content: "\e902";
+}
+.icon-close-one:before {
+  content: "\e903";
+}
+.icon-close-two:before {
+  content: "\e904";
+}
+.icon-ok:before {
+  content: "\e905";
+}
+.icon-telegram:before {
+  content: "\e906";
+}
+.icon-arrow:before {
+  content: "\e907";
+}
+.icon-location:before {
+  content: "\e908";
+}
+.icon-user:before {
+  content: "\e909";
+}
+.icon-Basket:before {
+  content: "\e90a";
+}
+.icon-search:before {
+  content: "\e90b";
+}
+.icon-fb:before {
+  content: "\e928";
+}
+.icon-inst:before {
+  content: "\e929";
+}
+.icon-vk:before {
+  content: "\73";
+}
